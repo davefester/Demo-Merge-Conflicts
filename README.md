@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Dave Fester
+A simple demo, by Dan Gilleland, for DMIT-2018
