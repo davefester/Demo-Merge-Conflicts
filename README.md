@@ -2,4 +2,4 @@
 
 A simple demo, by Dan Gilleland, for DMIT-2018
 
-Another Line
+A second conflict
